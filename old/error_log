@@ -1,0 +1,48 @@
+[13-Aug-2020 17:25:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sayoneso/public_html/demo/index.php on line 8
+[13-Aug-2020 17:26:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sayoneso/public_html/demo/index.php on line 8
+[13-Aug-2020 17:32:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'sayoneso_hybrid'@'localhost' to database 'timerdevice' in /home/sayoneso/public_html/demo/index.php on line 8
+[13-Aug-2020 17:32:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'sayoneso_hybrid'@'localhost' to database 'timerdevice' in /home/sayoneso/public_html/demo/index.php on line 8
+[13-Aug-2020 17:33:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'sayoneso_hybrid'@'localhost' to database 'timerdevice' in /home/sayoneso/public_html/demo/index.php on line 8
+[13-Aug-2020 17:34:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'sayoneso_hybrid'@'localhost' to database 'sayoneso_hybrid' in /home/sayoneso/public_html/demo/index.php on line 8
+[19-Aug-2020 04:55:50 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:55:50 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:55:50 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:55:50 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:55:50 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:55:50 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:55:50 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:55:50 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:55:50 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:55:50 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:55:50 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:55:50 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:55:50 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:55:50 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:56:37 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:56:37 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:56:37 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:56:37 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:56:37 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:56:37 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:56:37 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:56:37 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:56:37 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:56:37 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:56:37 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:56:37 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:56:37 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:56:37 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 114
+[19-Aug-2020 04:59:08 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 109
+[19-Aug-2020 04:59:08 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 109
+[19-Aug-2020 04:59:08 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 109
+[19-Aug-2020 04:59:08 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 109
+[19-Aug-2020 04:59:08 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 109
+[19-Aug-2020 04:59:08 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 109
+[19-Aug-2020 04:59:08 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 109
+[19-Aug-2020 04:59:08 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 109
+[19-Aug-2020 04:59:08 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 109
+[19-Aug-2020 04:59:08 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 109
+[19-Aug-2020 04:59:08 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 109
+[19-Aug-2020 04:59:08 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 109
+[19-Aug-2020 04:59:08 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 109
+[19-Aug-2020 04:59:08 UTC] PHP Notice:  Undefined index: url in /home/sayoneso/public_html/demo/index.php on line 109
